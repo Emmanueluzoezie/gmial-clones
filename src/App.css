@@ -1,1 +1,9 @@
-
+.App {
+    background-color: #edeff2;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .app-items{
+    display: flex;
+  }
